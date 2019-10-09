@@ -9,7 +9,7 @@ public class HelloWorld {
 
 
         Logger log = Logger.getLogger("sd");
-        log.info("elo elo elo");
-        log.error("Asdasdasdasd");
+        log.info("dzien trzeci");
+        log.error("testowanie");
     }
 }
